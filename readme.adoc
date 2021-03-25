@@ -1,0 +1,9 @@
+
+== Start Existing Project
+* python -m venv venv
+* source venv/Scripts/activate
+* pip install -r requirements.txt
+
+
+== Export Requirement
+* pip freeze > requirements.txt
